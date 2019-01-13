@@ -1,8 +1,4 @@
-# anubhavgupta.github.io
-Portfolio for Anubhav Gupta
+# hiteshsantwani.github.io
+Portfolio for Hitesh Santwani.
 
-Based on the template from start bootstrap
-http://startbootstrap.com/template-overviews/creative/
 
-TODO
-# Need to add separate pages for each of the projects
